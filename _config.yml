@@ -1,7 +1,7 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Ekta
+subtitle: Software Engineer
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  Hi, I am Ekta Dhobley, Masters Student. This site is built using devlopr-jekyll.
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -25,15 +25,15 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
+author: Ekta Dhobley
+author_bio: Hi, my name is Ekta Dhobley. I built this site using devlopr-jekyll :D
+author_email: "ektadhobley@gmail.com"
+author_location: United States
 author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+typewrite-text: Software Engineer.
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
-# Experiences
+# Experiences - about page
 author_work_experiences:
             - company_name: Google
               company_logo: google.png
@@ -88,7 +88,7 @@ flickr_username: johndoe
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: ektadhobley 
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
