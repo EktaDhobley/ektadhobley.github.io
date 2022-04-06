@@ -35,26 +35,32 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 
 # Experiences - about page
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
+            - company_name: Tata Consultancy Services
+              #company_logo: google.png
+              company_url: https://www.tcs.com/
               designation: Software Engineer
-              description: Worked on various Google Products
+              description: Worked as a Backend Spring Engineer
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Rutgers University, New Brunswick
+              #company_logo: microsoft.png
+              company_url: https://www.rutgers.edu/
+              designation: Graduate Teaching Assistant
+              description: Worked as a TA and graded assignments of 50+ students.
               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - #college_logo: mit.png
+                college_name: University of Mumbai
+                college_url: https://mu.ac.in/
+                college_degree: Electronics and Telecommunication Engineer
+                description: Bachelor of Engineering
+                visibility: true
+              - #college_logo: mit.png
+                college_name: Rutgers University, New Brunswick
+                college_url: https://www.rutgers.edu/
+                college_degree: Computer Science
+                description: Masters of Science
                 visibility: true
 
 # Projects
@@ -71,16 +77,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+#twitter_username: johndoe
+github_username:  EktaDhobley
+#facebook_username: johndoe
+linkedin_username: Ekta Dhobley
+#behance_username: johndoe
+#instagram_username: johndoe
+#medium_username: johndoe
+#telegram_username: johndoe
+#dribbble_username: johndoe
+#flickr_username: johndoe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
