@@ -8,28 +8,28 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
-    - text: Home
-      url: /
-    - text: About
+    - text: About Me
       url: /about
+    - text: Extras
+      url : /extras
+    - text: Facts
+      url: /facts
+   # - text: DO NOT CLICK HERE
+   #   url: /click
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
-    - text: Contact
-      url : /contact
+    - text: Contact Me
+      url : /contac
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
+author_logo: ekta_dp.png
 author: Ekta Dhobley
 author_bio: Hi, my name is Ekta Dhobley. I built this site using devlopr-jekyll :D
 author_email: "ektadhobley@gmail.com"
 author_location: United States
-author_website_url: "https://sujaykundu.com"
+#author_website_url: "https://sujaykundu.com"
 typewrite-text: Software Engineer.
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
@@ -65,15 +65,20 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - #project_thumbnail: gamershub.png
+                project_title: Web Query Application
+                project_description: Architected and implemented a web application for the purpose of querying the databases for 4 DBMS.
+                #project_url: https://gamershub.in
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - #project_thumbnail: hack4r.PNG
+                project_title: Face Recognition Web App with Machine Learning in Flask
+                project_description: Prepared a web server gateway interface in Flask by rendering HTML, CSS, and bootstrap in the frontend and in the backend using Python.
+                #project_url: https://hack4r.com
+                visibility: true
+              - #project_thumbnail: hack4r.PNG
+                project_title: Social Networking Hub for Students and Faculty (RAIT+)
+                project_description: Utilized Java for backend and MySQL for creating databases containing data of 600 faculty members and 5000 students.
+                #project_url: https://hack4r.com
                 visibility: true
 
 # social links
@@ -91,17 +96,17 @@ linkedin_username: Ekta Dhobley
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
 # disqus_shortname: sujay-kundu
-hyvor_talk_website_id: 476
+hyvor_talk_website_id: 6772
 
 # wakatime username (coding activity)
 wakatime_username: ektadhobley 
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+#mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+formspree_email: ektadhobley@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: devlopr
