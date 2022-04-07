@@ -1,7 +1,7 @@
 title: Ekta
 subtitle: Software Engineer
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I am Ekta Dhobley, Masters Student. This site is built using devlopr-jekyll.
+  Hi, I am Ekta Dhobley, I am a Masters Student, studying Computer Science with a focus on Machine Learning from Rutgers University, New Brunswick. I have worked as a Backend Spring Engineer for 2 years at Tata Consultancy Services.
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -10,10 +10,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
     - text: About Me
       url: /about
-    - text: Extras
+    - text: Hobbies
       url : /extras
-    - text: Facts
-      url: /facts
+    #- text: Facts
+      #url: /facts
    # - text: DO NOT CLICK HERE
    #   url: /click
     - text: Blog
@@ -26,12 +26,13 @@ urls:
 
 author_logo: ekta_dp.png
 author: Ekta Dhobley
-author_bio: Hi, my name is Ekta Dhobley. I built this site using devlopr-jekyll :D
+author_bio: Hi, my name is Ekta Dhobley. I like to challenge myself by learning new skills and working on new projects, apart from that I like to spend some time solving competitive coding questions on Leetcode.
 author_email: "ektadhobley@gmail.com"
-author_location: United States
+author_location: New Brunswick, New Jersey, United States
 #author_website_url: "https://sujaykundu.com"
-typewrite-text: Software Engineer.
+typewrite-text: Software Engineer. 
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+author_hobbies: Playing badminton, ukulele, chess, painting and writing. 
 
 # Experiences - about page
 author_work_experiences:
@@ -47,6 +48,12 @@ author_work_experiences:
               designation: Graduate Teaching Assistant
               description: Worked as a TA and graded assignments of 50+ students.
               visibility: true
+            - company_name: Air India Airlines
+              company_logo: AirIndia.png
+              company_url: https://www.airindia.in/
+              designation: Summer Intern
+              description: Worked as a Summer Intern.
+              visibility: true   
 
 # Education
 author_education_details:
