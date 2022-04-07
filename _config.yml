@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
     - text: About Me
       url: /about
-    - text: Hobbies
+    - text: Extras
       url : /extras
     #- text: Facts
       #url: /facts
@@ -19,7 +19,7 @@ urls:
     - text: Blog
       url: /blog
     - text: Contact Me
-      url : /contac
+      url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
@@ -53,7 +53,7 @@ author_work_experiences:
               company_url: https://www.airindia.in/
               designation: Summer Intern
               description: Worked as a Summer Intern.
-              visibility: true   
+              visibility: true  
 
 # Education
 author_education_details:
