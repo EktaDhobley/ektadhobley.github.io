@@ -57,7 +57,7 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - #college_logo: mit.png
+              - college_logo: UoM.png
                 college_name: University of Mumbai
                 college_url: https://mu.ac.in/
                 college_degree: Electronics and Telecommunication Engineer
