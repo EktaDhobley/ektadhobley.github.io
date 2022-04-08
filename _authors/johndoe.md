@@ -26,6 +26,6 @@ social:
       url: "https://telegram.com/johndoe"
     - title: "dribbble"
       url: "https://dribbble.com/johndoe"
-    - title: "flickr"
-      url: "https://flickr.com/johndoe"
+    - title: "Leetcode"
+      url: "https://leetcode.com/Ekta1508/"
 ---
