@@ -13,7 +13,7 @@ urls:
     - text: Extras
       url : /extras
     - text: Download Resume
-      url: <a href="/assets/img/EktaResume.pdf" target="_blank">Download Resume</a>
+      url: /facts
    # - text: DO NOT CLICK HERE
    #   url: /click
     - text: Blog
