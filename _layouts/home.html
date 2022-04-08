@@ -9,7 +9,8 @@ layout: default
     });
   });
 </script>
-    <div class="jumbotron" style="text-align: center;">
+    <div class="jumbotron" style="background: url(assets/img/bg.png) no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
+      <!-- style="text-align: center;"> -->
       <img class="author-profile-img" src="/assets/img/ekta_dp.png" />
       <p class="jumbotron-heading">Hi, I am {{site.author}} !</p>
       <p class="lead" id="typewriteText"></p>
@@ -95,9 +96,9 @@ layout: default
         {% endif %} {% if site.flickr_username %}
         <a
           class="social-link"
-          href="https://www.flickr.com/photos/{{ site.flickr_username }}"
+          href="https://leetcode.com/{{ site.leetcode_username }}"
         >
-          <i class="fab fa-flickr"></i>
+          <i class="fab fa-leetcode"></i>
         </a>
         {% endif %}
       </h3>
