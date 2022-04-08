@@ -12,14 +12,15 @@ urls:
       url: /about
     - text: Extras
       url : /extras
-    - text: Download Resume
-      url: /facts
-   # - text: DO NOT CLICK HERE
-   #   url: /click
     - text: Blog
       url: /blog
     - text: Contact Me
-      url : /contact
+      url : /contact  
+    - text: Download Resume
+      url: /facts #<a href="/assets/img/EktaResume.pdf" target="_blank">Download Resume</a>
+   # - text: DO NOT CLICK HERE
+   #   url: /click
+    
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
