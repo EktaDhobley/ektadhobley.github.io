@@ -14,7 +14,7 @@ permalink: /extras
 <h5><a href = "https://docs.google.com/document/d/1PE-aayknak8llkimKl38qWQci7HJkNXI/edit?usp=sharing&ouid=117418917800409731057&rtpof=true&sd=true" target="_blank">This</a> is my first writing.</h5>
 <hr />
 
-<h3 id="soundcloud-embed">Listen to my Jam.</h3>
+<h3 id="soundcloud-embed">Read my article.</h3>
 <h6 id="soundcloud-embed">P.S. Linking only my main playlist. Other playlists can be found in my profile. You can follow me by clicking the button.</h6>
 
 <iframe src="https://open.spotify.com/embed/playlist/710Wc0XQ6Kbs3c3wDe7n6j" width="320" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
