@@ -37,24 +37,24 @@ author_hobbies: Playing badminton, ukulele, chess, painting and writing.
 
 # Experiences - about page
 author_work_experiences:
-            - company_name: Tata Consultancy Services
-              company_logo: TCS.png
-              company_url: https://www.tcs.com/
-              designation: Software Engineer
-              description: Worked as a Backend Spring Engineer
-              visibility: true
             - company_name: Rutgers University, New Brunswick
               company_logo: Rutgers.png
               company_url: https://www.rutgers.edu/
               designation: Graduate Teaching Assistant
               description: Worked as a TA and graded assignments of 50+ students.
               visibility: true
+            - company_name: Tata Consultancy Services
+              company_logo: TCS.png
+              company_url: https://www.tcs.com/
+              designation: Software Engineer
+              description: Worked as a Backend Spring Engineer
+              visibility: true
             - company_name: Air India Airlines
               company_logo: AirIndia.png
               company_url: https://www.airindia.in/
               designation: Summer Intern
               description: Worked as a Summer Intern.
-              visibility: true  
+              visibility: true    
 
 # Education
 author_education_details:
