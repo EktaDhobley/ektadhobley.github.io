@@ -5,7 +5,7 @@ summary: "Getting Started with Go"
 author: Ekta Dhobley
 date: '2022-04-13 14:35:23 +0530'
 category: go
-thumbnail: /assets/img/posts/golang.jpg
+thumbnail: /assets/img/posts/golang.png
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
 permalink: /blog/welcome-to-devlopr-jekyll/
 usemathjax: true
