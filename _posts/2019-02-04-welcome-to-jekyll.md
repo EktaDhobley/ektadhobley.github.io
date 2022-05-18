@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Welcome to devlopr-jekyll !"
-summary: "Getting Started using devlopr-jekyll"
-author: johndoe
-date: '2019-05-22 14:35:23 +0530'
-category: jekyll
-thumbnail: /assets/img/posts/code.jpg
+title:  "How to install Go on Apple M1 MacBook?"
+summary: "Getting Started with Go"
+author: Ekta Dhobley
+date: '2022-04-13 14:35:23 +0530'
+category: go
+thumbnail: /assets/img/posts/golang.jpg
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
 permalink: /blog/welcome-to-devlopr-jekyll/
 usemathjax: true
