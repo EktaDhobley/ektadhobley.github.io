@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-<div class="col-lg-12">
 <div class="row">
-  <div class="col-lg-4">
+  <div class="col-lg-4 offset-md-1">
     <div class="card" id="profile-card">
       <a href="/">
         <img src="{{site.url}}{{site.baseurl}}/assets/img/{{ site.author_logo }}" class="profile-img" />
@@ -107,7 +106,7 @@ layout: default
     </div>
     {% endif %}
   </div>
-  <div class="col-lg-8">
+  <div class="col-lg-6">
     {% if site.author_bio %}
     <div class="card">
       <h1 class="card-title">About</h1>
@@ -187,4 +186,37 @@ layout: default
     {% endif %}
   </div>
 </div>
+</div>
+</div>
+    {% endif %} {% if site.show_author_project_details == true %}
+    <div id="author_projects" class="card">
+      <h1 class="card-title">Projects</h1>
+      <br />
+      <h5>Coming Soon...</h5>
+      {% for project in site.author_project_details %} {% if project.visibility
+      == true %}
+      
+      <div class="row" id="project-card">
+        <div class="col-md-6">
+          <img
+            src="{{site.url}}{{site.baseurl}}/assets/img/{{project.project_thumbnail}}"
+            class="project-img"
+          />
+        </div>
+        <div class="col-md-4 center">
+          <h4 class="experience-title">{{ project.project_title }}</h4>
+          <h6 class="experience-info">{{ project.project_info}}</h6>
+          <p class="experience-desc">{{ project.project_description }}</p>
+          <p>
+            <a class="project-link" href="{{project.project_url}}"
+              >{{ project.project_url}}</a
+            >
+          </p>
+        </div>
+      </div>
+      <br />
+      {% endif %} {% endfor %}
+    </div>
+    {% endif %} 
+  </div>
 </div>
