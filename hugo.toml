@@ -1,0 +1,60 @@
+baseURL = "https://ektadhobley.github.io/"
+languageCode = "en-us"
+title = "Ekta Dhobley"
+theme = "PaperMod"
+paginate = 5
+
+[params]
+  author = "Ekta Dhobley"
+  description = "Software Engineer at Goldman Sachs. Backend systems and distributed systems."
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = false
+  ShowFullTextinRSS = false
+
+[params.profileMode]
+  enabled = true
+  title = "Ekta Dhobley"
+  subtitle = """Software Engineer at Goldman Sachs (Global Banking & Markets), building backend systems for trade data infrastructure. 4.5 years in Java, Spring Boot, Kafka, and distributed systems. MS in Computer Science, Rutgers University."""
+  imageUrl = "images/avatar.jpg"
+  imageTitle = "Ekta Dhobley"
+
+[[params.profileMode.buttons]]
+  name = "About"
+  url = "/about"
+
+[[params.profileMode.buttons]]
+  name = "Projects"
+  url = "/projects"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/ekta-dhobley"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/EktaDhobley"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:your@email.com"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 20
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume.pdf"
+    weight = 30
