@@ -42,4 +42,4 @@ Writing I have bookmarked and returned to.
 
 ---
 
-*Have a recommendation? [Email me](mailto:your@email.com)*
+*Have a recommendation? [Email me](mailto:ektadhobley@email.com)*
